@@ -7,6 +7,12 @@ Create an interactive executive level dashboard which dynamically displays key p
 - Data contained information such as: Order Quantity, Date, and location; COGS, Revenue, and Profit per Order; Customer Name.
 - Created new measures and calculated columns to develop data.
 
+## Skill Demonstrated
+- DAX Measures
+- Advanced Visualization Analytics
+- Business Intelligence Dashboard Design
+- Interactive Filters & Slicers
+
 ## Key Performanc Indicators & Viusalizations
 KPIs
 - Total Revenue
@@ -23,9 +29,3 @@ Visualizations
 - Sum of Quanityt by Sales Area and City
 - USA Revenue & Profit Margin by Sales Area
 - Germany Revenue & Profit Margin by Sales Area
-
-## Skill Demonstrated
-- DAX Measures
-- Advanced Visualization Analytics
-- Business Intelligence Dashboard Design
-- Interactive Filters & Slicers
